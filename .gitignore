@@ -1,0 +1,15 @@
+# Data exclusions
+data/
+*.csv
+*.db
+*.png
+
+# Python ecosystem
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# IDE settings
+.vscode/
